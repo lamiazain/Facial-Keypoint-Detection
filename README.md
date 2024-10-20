@@ -40,14 +40,14 @@ Follow the instructions below to set up the project on your local machine for de
 
 
 ## Usage
-To run the keypoint detection on an image, run notebook#3.
+To run the keypoint detection on an image, run [notebook#3](3. Facial Keypoint Detection, Complete Pipeline).
 
 
 ## Dataset
 This project uses the [Facial Keypoints Dataset](https://www.kaggle.com/c/facial-keypoints-detection/data) provided by Kaggle. Ensure you download the dataset and update the paths in your code accordingly.
 
 ## Training
-To train the model, run [notebook#2]().
+To train the model, run [notebook#2](2. Define the Network Architecture.ipynb).
 
 Make sure to adjust the hyperparameters in the mentioned notebook based on your requirements.
 
