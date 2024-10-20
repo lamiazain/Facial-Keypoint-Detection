@@ -78,7 +78,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenCV](https://opencv.org/) for image processing.
 - [PyTorch](https://pytorch.org/) for deep learning.
 
-```
 
 ### Customization Suggestions:
 - **Example Images**: Add specific images demonstrating the detection results.
