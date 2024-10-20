@@ -55,16 +55,12 @@ Make sure to adjust the hyperparameters in `train.py` based on your requirements
 
 ## Results
 Include example images showing the keypoints detected by the model. For instance:
-![Example Result]![image](https://github.com/user-attachments/assets/09e8d2cf-6b1e-4ff7-821c-8f82f720d2a4)
+![image](https://github.com/user-attachments/assets/3b3f72d8-72fc-472b-b137-1e7cfa8bc85b)
 
-## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+This is a Udacity Guided Project in the [Computer Vision](https://www.udacity.com/enrollment/nd891) NanoDegree.
 ## Acknowledgments
-- [Kaggle](https://www.kaggle.com) for the dataset.
 - [OpenCV](https://opencv.org/) for image processing.
 - [PyTorch](https://pytorch.org/) for deep learning.
 
