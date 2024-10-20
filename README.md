@@ -40,7 +40,7 @@ Follow the instructions below to set up the project on your local machine for de
 
 
 ## Usage
-To run the keypoint detection on an image, run [notebook#3](3. Facial Keypoint Detection, Complete Pipeline).
+To run the keypoint detection on an image, run [notebook#3](3. Facial Keypoint Detection, Complete Pipeline.ipynb).
 
 
 ## Dataset
