@@ -37,21 +37,11 @@ Follow the instructions below to set up the project on your local machine for de
    ```bash
    cd Facial-Keypoint-Detection
    ```
-3. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
-To run the keypoint detection on an image, use the following command:
-```bash
-python detect_keypoints.py --image path/to/your/image.jpg
-```
+To run the keypoint detection on an image, run notebook#3.
 
-### Example
-```bash
-python detect_keypoints.py --image examples/sample.jpg
-```
 
 ## Dataset
 This project uses the [Facial Keypoints Dataset](https://www.kaggle.com/c/facial-keypoints-detection/data) provided by Kaggle. Ensure you download the dataset and update the paths in your code accordingly.
@@ -65,7 +55,7 @@ Make sure to adjust the hyperparameters in `train.py` based on your requirements
 
 ## Results
 Include example images showing the keypoints detected by the model. For instance:
-![Example Result](path/to/example/result.png)
+![Example Result]![image](https://github.com/user-attachments/assets/09e8d2cf-6b1e-4ff7-821c-8f82f720d2a4)
 
 ## Contributing
 Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
