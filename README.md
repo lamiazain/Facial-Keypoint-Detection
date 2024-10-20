@@ -47,11 +47,9 @@ To run the keypoint detection on an image, run notebook#3.
 This project uses the [Facial Keypoints Dataset](https://www.kaggle.com/c/facial-keypoints-detection/data) provided by Kaggle. Ensure you download the dataset and update the paths in your code accordingly.
 
 ## Training
-To train the model, run the following command:
-```bash
-python train.py
-```
-Make sure to adjust the hyperparameters in `train.py` based on your requirements.
+To train the model, run [notebook#2]().
+
+Make sure to adjust the hyperparameters in the mentioned notebook based on your requirements.
 
 ## Results
 Include example images showing the keypoints detected by the model. For instance:
