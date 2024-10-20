@@ -10,7 +10,6 @@ Facial Keypoint Detection is a machine learning project aimed at detecting key f
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Dataset](#dataset)
 - [Training](#training)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -42,9 +41,6 @@ Follow the instructions below to set up the project on your local machine for de
 ## Usage
 To run the keypoint detection on an image, run [Facial-Keypoint-Detection/3. Facial Keypoint Detection, Complete Pipeline.ipynb](https://github.com/lamiazain/Facial-Keypoint-Detection/blob/main/3.%20Facial%20Keypoint%20Detection%2C%20Complete%20Pipeline.ipynb).
 
-
-## Dataset
-This project uses the [Facial Keypoints Dataset](https://www.kaggle.com/c/facial-keypoints-detection/data) provided by Kaggle. Ensure you download the dataset and update the paths in your code accordingly.
 
 ## Training
 To train the model, run ([Facial-Keypoint-Detection/2. Define the Network Architecture.ipynb](https://github.com/lamiazain/Facial-Keypoint-Detection/blob/main/2.%20Define%20the%20Network%20Architecture.ipynb).
