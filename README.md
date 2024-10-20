@@ -1,6 +1,4 @@
-Here’s a suggested README template for your Facial Keypoint Detection project that provides a clear structure and covers essential aspects. Feel free to customize it based on your project specifics.
 
-```markdown
 # Facial Keypoint Detection
 
 ## Overview
